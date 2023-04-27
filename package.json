@@ -13,6 +13,9 @@
     "express": "^4.18.2"
   },
   "engines": {
-    "node" : "18.15.0"
-}
+    "node": "18.15.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^14.3.1"
+  }
 }
